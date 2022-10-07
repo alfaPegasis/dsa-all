@@ -36,6 +36,8 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 - Bucket sort
 - Shell sort
 ##### Graphs
+- Depth First Search
+- Breadth First Search
 - Kruskal's Algorithm 
 - Dijkstra's Algorithm 
 - Bellman Ford Algorithm 
