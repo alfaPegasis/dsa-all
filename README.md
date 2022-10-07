@@ -1,4 +1,5 @@
-# Data Structures and Algorithms: In your favourite language!! <br>
+# Data Structures and Algorithms:<br>
+In your favourite language!! 
 
 Contribute to the repository. Happy Learning!😁 <br>
 
