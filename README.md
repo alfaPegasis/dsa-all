@@ -1,7 +1,13 @@
-# Data Structures and Algorithms: In your favourite language!! <br>
+# Data Structures and Algorithms:<br>
+In your favourite language!! 
 
-Contribute to the repository. Happy Learning!😁 <br>
+Contribute to the repository. [Check out this file on how to contribute.](https://github.com/alfaPegasis/dsa-all/blob/06a9932dcd8846aa20335f9690d246a6d6fb576d/CONTRIBUTING.md)<br>
+### Happy Learning!😁 <br>
 
 ## Data Structures:
 ##### Trees:
-- Binary Search Tree: [Code](https://github.com/alfaPegasis/DSA-all/blob/8576f2f9aaeef80c43a86aaa2083121a056624b8/data_structures/bst.py)
+- Binary Search Tree:
+
+## Algorithms:
+##### Searching:
+- Linear Search:
