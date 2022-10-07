@@ -5,8 +5,19 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 ### Happy Learning!😁 <br>
 
 ## Data Structures:
+##### Arrays:
+##### Linked Lists:
+##### Graphs:
+##### Stacks:
+##### Queues:
+##### Heaps:
+##### Hashes:
+- Hash Set
+- Hash Map
 ##### Trees:
-- Binary Search Tree:
+- Binary Search Tree
+- Binary Tree
+- Optimal Binary Search Tree
 
 ## Algorithms:
 ##### Searching:
@@ -24,3 +35,14 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 - Radix sort
 - Bucket sort
 - Shell sort
+##### Graphs
+- Kruskal's Algorithm 
+- Dijkstra's Algorithm 
+- Bellman Ford Algorithm 
+- Floyd Warshall Algorithm 
+- Topological Sort Algorithm 
+- Flood Fill Algorithm 
+- Lee Algorithm 
+- Prim's Algorithm 
+- Boruvka's Algorithm 
+- Johnson's Algorithm
