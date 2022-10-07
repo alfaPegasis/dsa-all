@@ -11,3 +11,16 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 ## Algorithms:
 ##### Searching:
 - Linear Search:
+- Binary Search
+- Fibonacci Search
+##### Sorting:
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Heap sort
+- Tim sort
+- Radix sort
+- Bucket sort
+- Shell sort
