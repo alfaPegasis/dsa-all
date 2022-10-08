@@ -1,8 +1,6 @@
-package Graphs.Practice;
-
 import java.util.ArrayList;
 
-public class G002DFS {
+public class DepthFirstSearch {
     static ArrayList<Integer> dfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj){
         ArrayList<Integer> dfs = new ArrayList<>();
         boolean [] vis = new boolean[V+1];

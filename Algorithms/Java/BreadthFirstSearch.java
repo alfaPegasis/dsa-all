@@ -1,10 +1,8 @@
-package Graphs.Practice;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class G001BFS {
+public class BreadthFirstSearch {
     static ArrayList<Integer> bfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj){
         ArrayList<Integer> bfs = new ArrayList<>();
         Queue<Integer> q = new LinkedList<>();
