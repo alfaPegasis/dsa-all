@@ -1,8 +1,7 @@
 # Data Structures and Algorithms:<br>
 ![dsa-all](https://socialify.git.ci/alfaPegasis/dsa-all/image?description=1&descriptionEditable=This%20repository%20contains%20all%20important%20concepts%20of%20Data%20Structures%20and%20Algorithms.%20Happy%20hacking!%20%F0%9F%9A%80&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
-Contribute to the repository. [Check out this file on how to contribute.](https://github.com/alfaPegasis/dsa-all/blob/06a9932dcd8846aa20335f9690d246a6d6fb576d/CONTRIBUTING.md) <strong> in your favourite language!! </strong>
-<br>
-
+## Getting Started
+- Read through our [Contribution Guidelines](https://github.com/alfaPegasis/dsa-all/blob/06a9932dcd8846aa20335f9690d246a6d6fb576d/CONTRIBUTING.md) to contribute in your favourite language!
 ## Data Structures:
 #### Arrays:
 - Hashed Array Tree
