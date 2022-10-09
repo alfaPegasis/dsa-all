@@ -4,18 +4,40 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 
 ## Data Structures:
 #### Arrays:
+- Hashed Array Tree
+- Sparse Matrix
 #### Linked Lists:
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
 #### Graphs:
+- Undirected Unweighted Graph
+- Directed Unweighted Graph
+- Undirected Weighted Graph
+- Directed Weighted Graph
 #### Stacks:
+- Array Stack
+- Linked Stack
 #### Queues:
+- Array Queue
+- Linked Queue
+- Priority Queue
 #### Heaps:
+- Binary Min Heap
+- Binary Max Heap
+- Binomial Min Heap
+- Binomial Max Heap
 #### Hashes:
 - Hash Set
 - Hash Map
 #### Trees:
+- AVL Tree
+- Red Black Tree
 - Binary Search Tree
 - Binary Tree
 - Optimal Binary Search Tree
+- Suffix Tree
+- Suffix Tree Map
 
 ## Algorithms:
 #### Searching:
@@ -32,6 +54,7 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 - Tim sort
 - Radix sort
 - Bucket sort
+- Pigeonhole sort
 - Shell sort
 #### Graphs
 - Depth First Search
