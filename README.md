@@ -3,26 +3,26 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 <br>
 
 ## Data Structures:
-##### Arrays:
-##### Linked Lists:
-##### Graphs:
-##### Stacks:
-##### Queues:
-##### Heaps:
-##### Hashes:
+#### Arrays:
+#### Linked Lists:
+#### Graphs:
+#### Stacks:
+#### Queues:
+#### Heaps:
+#### Hashes:
 - Hash Set
 - Hash Map
-##### Trees:
+#### Trees:
 - Binary Search Tree
 - Binary Tree
 - Optimal Binary Search Tree
 
 ## Algorithms:
-##### Searching:
+#### Searching:
 - Linear Search:
 - Binary Search
 - Fibonacci Search
-##### Sorting:
+#### Sorting:
 - Bubble sort
 - Selection sort
 - Insertion sort
@@ -33,7 +33,7 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 - Radix sort
 - Bucket sort
 - Shell sort
-##### Graphs
+#### Graphs
 - Depth First Search
 - Breadth First Search
 - Kruskal's Algorithm 
@@ -46,4 +46,12 @@ Contribute to the repository. [Check out this file on how to contribute.](https:
 - Prim's Algorithm 
 - Boruvka's Algorithm 
 - Johnson's Algorithm
+#### Recursion and Backtracking:
+- N-queens
+- Rat in a maze
+- Sudoku Puzzle
+- The Knight's Tour
+- Subset Sum
+- Hamiltonian Cycle
+- Magnet Puzzle
 ### Happy Learning!😁 <br>
