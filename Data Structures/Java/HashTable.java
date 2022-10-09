@@ -1,5 +1,3 @@
-package academy.learnprogramming.hashtable;
-
 public class SimpleHashtable {
 
     private StoredEmployee[] hashtable;
